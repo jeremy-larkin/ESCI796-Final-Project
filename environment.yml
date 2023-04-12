@@ -1,0 +1,11 @@
+name: final_project
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  -datetime
+  -os
+  -scipy
+
+
+
